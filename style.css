@@ -640,7 +640,8 @@ header h1{
     text-align: start;
     font-size: 35px;
     margin-bottom: -15px !important;
-    margin-left: 15px;
+    margin-left: 10px;
+    
 }
 header h2{
     font-size: 23px;
@@ -652,9 +653,9 @@ header h3{
     font-size: 17px;
     font-weight: 450;
     text-align: start;
-    padding-left: 40px;
+    padding-left: 10px;
     margin-left: -11px;
-    color: rgb(0, 0, 0) !important;
+   
 }
 header h4{
     font-size: 15px;
@@ -663,7 +664,7 @@ header h4{
 }
 .dot{
     display: inline;
-    color: rgb(0, 0, 0) !important;
+
     font-weight:normal;
 }
 #about{
